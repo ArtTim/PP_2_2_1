@@ -19,9 +19,6 @@ public class User {
    @Column(name = "email")
    private String email;
 
-   @Column(name = "cars_id")
-   private long carsId;
-
    @OneToOne
    @JoinColumn(name = "cars_id")
    private Car car;
