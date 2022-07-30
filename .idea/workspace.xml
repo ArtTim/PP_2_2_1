@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbdc45e5-938f-419d-826e-cbc1d0e26ce6" name="Changes" comment="Updated Maven dependencies">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1258c3de-99b0-4efa-84bc-7347ff4e2c1d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1258c3de-99b0-4efa-84bc-7347ff4e2c1d.xml" afterDir="false" />
+    <list default="true" id="bbdc45e5-938f-419d-826e-cbc1d0e26ce6" name="Changes" comment="Added method which returning user by Car model &amp;&amp; Car series.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/model/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PP_2_2_2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -86,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1658607070479</updated>
       <workItem from="1658607072446" duration="2368000" />
-      <workItem from="1658678752867" duration="7109000" />
+      <workItem from="1658678752867" duration="8244000" />
+      <workItem from="1658853430312" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="Rebase project.">
       <created>1658609420670</created>
@@ -102,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658610767254</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added method which returning user by Car model &amp;&amp; Car series.">
+      <created>1658686817465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658686817465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rebase project." />
     <MESSAGE value="Updated Maven dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Maven dependencies" />
+    <MESSAGE value="Added method which returning user by Car model &amp;&amp; Car series." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added method which returning user by Car model &amp;&amp; Car series." />
   </component>
 </project>
